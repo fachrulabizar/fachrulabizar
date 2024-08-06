@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Gianni Hong</h1>
-<h3 align="center">A passionate mobile app developer from Taiwan 🇹🇼</h3>
+<h1 align="center">Hi there 👋, Fachrul Abizar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fachrulabizar&label=Profile%20views&color=0e75b6&style=flat" alt="fachrulabizar" /> </p>
 
